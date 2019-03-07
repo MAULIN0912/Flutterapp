@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "442993207175",
+    "firebase_url": "https://maulin-eb893.firebaseio.com",
+    "project_id": "maulin-eb893",
+    "storage_bucket": "maulin-eb893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442993207175:android:45bc6f677832cc01",
+        "android_client_info": {
+          "package_name": "com.maulin.flutterapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442993207175-mu4tqket25dvf3sssjl6j50nhcnnuv7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVLMQNm-Rfphwz_HQFxhFlNk8NVUvdzYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
